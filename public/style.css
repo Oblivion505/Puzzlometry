@@ -1,0 +1,19 @@
+/* Computer Science A-Level Project */
+/* ~ By Joshua Abbott */
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: #c9daf8ff;
+}
+
+canvas {
+        border: 1px solid black;
+}
+
+#textbox {
+   border: none !important;
+}
